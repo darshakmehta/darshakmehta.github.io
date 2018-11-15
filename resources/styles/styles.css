@@ -1,0 +1,14 @@
+html {
+	scroll-behavior: smooth;
+}
+#about-me {
+	margin-top: 90px;
+}
+/*
+@media (min-width: 768px) {
+	.my-img {
+		height: 500px;
+		width: 400px;
+	}
+	
+}*/
