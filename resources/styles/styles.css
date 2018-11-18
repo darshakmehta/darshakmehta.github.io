@@ -27,7 +27,7 @@ html {
 }
 
 .text-color {
-	color: #2196F3;
+	color: #00BCD4;
 }
 
 .text-size {
@@ -86,4 +86,20 @@ html {
 
 .footer-color {
 	color: #fff;
+}
+
+.a-style-company {
+
+}
+
+.a-style-company:hover {
+	
+}
+
+.mb-style, .project-role-mb {
+	margin-bottom: 0.5rem;
+}
+
+.project-row-mb {
+	margin-bottom: 10px;
 }
